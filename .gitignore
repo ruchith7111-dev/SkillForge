@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+skillforge_data.json
+skillforge_export.csv
+skillforge_report.pdf
+*.tmp
